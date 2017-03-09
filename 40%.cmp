@@ -1,0 +1,1875 @@
+Cmp-Mod V01 Created by PcbNew   date = 12/11/2016 10:52:57 PM
+
+BeginCmp
+TimeStamp = 584E1A2E
+Path = 
+Reference = P65NP;
+ValeurCmp = p65nameplate;
+IdModule  = p65nameplate;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E0E09
+Path = 
+Reference = REF**;
+ValeurCmp = LP;
+IdModule  = LP;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462B93
+Path = /5847D72D
+Reference = REF1;
+ValeurCmp = ESC;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C33
+Path = /584A5F3D
+Reference = REF16;
+ValeurCmp = R1LED;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462CA8
+Path = /584BF2DE
+Reference = REF33;
+ValeurCmp = W;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C92
+Path = /584BF2D2
+Reference = REF31;
+ValeurCmp = TAB;
+IdModule  = newfootprints:150U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 584DF0EA
+Path = 
+Reference = REF**;
+ValeurCmp = LP;
+IdModule  = LP;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C9D
+Path = /584BF2D8
+Reference = REF32;
+ValeurCmp = Q;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 584DE5E0
+Path = 
+Reference = OVAL_HOLE;
+ValeurCmp = ~;
+IdModule  = lib_footprints:POKER_OVAL_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 584DE5DC
+Path = 
+Reference = OVAL_HOLE;
+ValeurCmp = ~;
+IdModule  = lib_footprints:POKER_OVAL_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 584DE5D8
+Path = 
+Reference = OVAL_HOLE;
+ValeurCmp = ~;
+IdModule  = lib_footprints:POKER_OVAL_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CA7
+Path = /58267F85
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = footprints:AVR-ISP-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 584DCE7C
+Path = 
+Reference = OVAL_HOLE;
+ValeurCmp = ~;
+IdModule  = lib_footprints:POKER_OVAL_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5C7F
+Path = /58229569
+Reference = C1;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5C85
+Path = /5822964A
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5C8B
+Path = /5826CBFE
+Reference = C3;
+ValeurCmp = 2.2uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5C91
+Path = /5826CA0B
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5C97
+Path = /5826CF0E
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5C9D
+Path = /58269624
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CAD
+Path = /584842AE
+Reference = D1;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CB3
+Path = /58484DAD
+Reference = D2;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CB9
+Path = /58485908
+Reference = D3;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CBF
+Path = /58485FD2
+Reference = D4;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CC5
+Path = /584860CA
+Reference = D5;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CCB
+Path = /584861CB
+Reference = D6;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CD1
+Path = /584862B7
+Reference = D7;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CD7
+Path = /584863CE
+Reference = D8;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CDD
+Path = /58486512
+Reference = D9;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CE3
+Path = /58486903
+Reference = D10;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CE9
+Path = /58486D63
+Reference = D11;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CEF
+Path = /584870C8
+Reference = D12;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CF5
+Path = /5848724A
+Reference = D13;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5CFB
+Path = /58487D9D
+Reference = D14;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D01
+Path = /58488D3B
+Reference = D15;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D07
+Path = /584BF32C
+Reference = D16;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D0D
+Path = /584BF333
+Reference = D17;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D13
+Path = /584BF33A
+Reference = D18;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D19
+Path = /584BF341
+Reference = D19;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D1F
+Path = /584BF348
+Reference = D20;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D25
+Path = /584BF34F
+Reference = D21;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D2B
+Path = /584BF356
+Reference = D22;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D31
+Path = /584BF35D
+Reference = D23;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D37
+Path = /584BF364
+Reference = D24;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D3D
+Path = /584BF36B
+Reference = D25;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D43
+Path = /584BF372
+Reference = D26;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D49
+Path = /584BF379
+Reference = D27;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D4F
+Path = /584BF380
+Reference = D28;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D55
+Path = /584BF387
+Reference = D29;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D5B
+Path = /584BF38E
+Reference = D30;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D61
+Path = /584C4833
+Reference = D31;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D67
+Path = /584C483A
+Reference = D32;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D6D
+Path = /584C4841
+Reference = D33;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D73
+Path = /584C4848
+Reference = D34;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D79
+Path = /584C484F
+Reference = D35;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D7F
+Path = /584C4856
+Reference = D36;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D85
+Path = /584C485D
+Reference = D37;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D8B
+Path = /584C4864
+Reference = D38;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D91
+Path = /584C486B
+Reference = D39;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D97
+Path = /584C4872
+Reference = D40;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5D9D
+Path = /584C4879
+Reference = D41;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5DA3
+Path = /584C4880
+Reference = D42;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5DA9
+Path = /584C4887
+Reference = D43;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E6451
+Path = /5821718C
+Reference = U1;
+ValeurCmp = ATmega32U4-AU;
+IdModule  = 40fp:TQFP-44_ATMEGA32U4;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E6457
+Path = /58229325
+Reference = Y1;
+ValeurCmp = 16MHz;
+IdModule  = 40fp:crystal_ABLS7M;
+EndCmp
+
+BeginCmp
+TimeStamp = 5832669B
+Path = /584C4895
+Reference = D44;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583266B2
+Path = /584CD8A8
+Reference = D45;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583266C9
+Path = /584CD8AF
+Reference = D46;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583266E0
+Path = /584CD8B6
+Reference = D47;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583266F7
+Path = /584CD8BD
+Reference = D48;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5832670E
+Path = /584CD8C4
+Reference = D49;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326725
+Path = /584CD8CB
+Reference = D50;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5832673C
+Path = /584CD8D2
+Reference = D51;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326753
+Path = /584CD8D9
+Reference = D52;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5832676A
+Path = /584CD8E0
+Reference = D53;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326781
+Path = /584CD8E7
+Reference = D54;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326798
+Path = /584CD8EE
+Reference = D55;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583267AF
+Path = /584CD8F5
+Reference = D56;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583267C6
+Path = /584CD903
+Reference = D57;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583267DD
+Path = /584CD90A
+Reference = D58;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583267F4
+Path = /584D9DA9
+Reference = D59;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5832680B
+Path = /584D9DB0
+Reference = D60;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326822
+Path = /584D9DB7
+Reference = D61;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326839
+Path = /584D9DBE
+Reference = D62;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326850
+Path = /584E0ABB
+Reference = D63;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326867
+Path = /584DD2B8
+Reference = D64;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5832687E
+Path = /584DD2BF
+Reference = D65;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58326895
+Path = /58517BEC
+Reference = D66;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 583268AC
+Path = /584DD2C6
+Reference = D67;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462B7A
+Path = /5821B5AA
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462B7F
+Path = /5826B314
+Reference = R2;
+ValeurCmp = 22R;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462B84
+Path = /5826B231
+Reference = R3;
+ValeurCmp = 22R;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462B9E
+Path = /5847FBEC
+Reference = REF2;
+ValeurCmp = 1;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462BA9
+Path = /5847FFD4
+Reference = REF3;
+ValeurCmp = 2;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462BB4
+Path = /5847FFDA
+Reference = REF4;
+ValeurCmp = 3;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462BBF
+Path = /584800B8
+Reference = REF5;
+ValeurCmp = 4;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462BCA
+Path = /584800BE
+Reference = REF6;
+ValeurCmp = 5;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462BD5
+Path = /584800C4
+Reference = REF7;
+ValeurCmp = 6;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462BE0
+Path = /584800CA
+Reference = REF8;
+ValeurCmp = 7;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462BEB
+Path = /58480FF1
+Reference = REF9;
+ValeurCmp = 8;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462BF6
+Path = /58480FF7
+Reference = REF10;
+ValeurCmp = 9;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C01
+Path = /58480FFD
+Reference = REF11;
+ValeurCmp = 0;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C0C
+Path = /58481003
+Reference = REF12;
+ValeurCmp = -;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C17
+Path = /58481009
+Reference = REF13;
+ValeurCmp = =;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C22
+Path = /5848100F
+Reference = REF14;
+ValeurCmp = BKSP;
+IdModule  = LIBRARY_PLANCK:200U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C2D
+Path = /58481015
+Reference = REF15;
+ValeurCmp = `;
+IdModule  = LIBRARY_PLANCK:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C39
+Path = /584A5CC4
+Reference = REF17;
+ValeurCmp = R2LED;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C3F
+Path = /584A5A58
+Reference = REF18;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C45
+Path = /584A57F7
+Reference = REF19;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C4B
+Path = /584A5595
+Reference = REF20;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C51
+Path = /584A5328
+Reference = REF21;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C57
+Path = /584A4F83
+Reference = REF22;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C5D
+Path = /584A4D2A
+Reference = REF23;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C63
+Path = /584A4ACA
+Reference = REF24;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C69
+Path = /584A4865
+Reference = REF25;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C6F
+Path = /584A4611
+Reference = REF26;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C75
+Path = /584A43C8
+Reference = REF27;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C7B
+Path = /584A4186
+Reference = REF28;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C81
+Path = /584A3F43
+Reference = REF29;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462C87
+Path = /584A3CFF
+Reference = REF30;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462CB3
+Path = /584BF2E4
+Reference = REF34;
+ValeurCmp = E;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462CBE
+Path = /584BF2EA
+Reference = REF35;
+ValeurCmp = R;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462CC9
+Path = /584BF2F0
+Reference = REF36;
+ValeurCmp = T;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462CD4
+Path = /584BF2F6
+Reference = REF37;
+ValeurCmp = Y;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462CDF
+Path = /584BF2FC
+Reference = REF38;
+ValeurCmp = U;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462CEA
+Path = /584BF302
+Reference = REF39;
+ValeurCmp = I;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462CF5
+Path = /584BF308
+Reference = REF40;
+ValeurCmp = O;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D00
+Path = /584BF30E
+Reference = REF41;
+ValeurCmp = P;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D0B
+Path = /584BF314
+Reference = REF42;
+ValeurCmp = [;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D16
+Path = /584BF31A
+Reference = REF43;
+ValeurCmp = ];
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D21
+Path = /584BF320
+Reference = REF44;
+ValeurCmp = \;
+IdModule  = newfootprints:150U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D2C
+Path = /584BF326
+Reference = REF45;
+ValeurCmp = DEL;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D32
+Path = /584BF461
+Reference = REF46;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D38
+Path = /584BF45B
+Reference = REF47;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D3E
+Path = /584BF455
+Reference = REF48;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D44
+Path = /584BF44F
+Reference = REF49;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D4A
+Path = /584BF449
+Reference = REF50;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D50
+Path = /584BF443
+Reference = REF51;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D56
+Path = /584BF43D
+Reference = REF52;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D5C
+Path = /584BF437
+Reference = REF53;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D62
+Path = /584BF431
+Reference = REF54;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D68
+Path = /584BF42B
+Reference = REF55;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D6E
+Path = /584BF425
+Reference = REF56;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D74
+Path = /584BF41F
+Reference = REF57;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D7A
+Path = /584BF419
+Reference = REF58;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D80
+Path = /584BF413
+Reference = REF59;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D86
+Path = /584BF40D
+Reference = REF60;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D91
+Path = /584C47D9
+Reference = REF61;
+ValeurCmp = CAPS;
+IdModule  = newfootprints:175U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462D9C
+Path = /584C47DF
+Reference = REF62;
+ValeurCmp = A;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DA7
+Path = /584C47E5
+Reference = REF63;
+ValeurCmp = S;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DB2
+Path = /584C47EB
+Reference = REF64;
+ValeurCmp = D;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DBD
+Path = /584C47F1
+Reference = REF65;
+ValeurCmp = F;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DC8
+Path = /584C47F7
+Reference = REF66;
+ValeurCmp = G;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DD3
+Path = /584C47FD
+Reference = REF67;
+ValeurCmp = H;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DDE
+Path = /584C4803
+Reference = REF68;
+ValeurCmp = J;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DE9
+Path = /584C4809
+Reference = REF69;
+ValeurCmp = K;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DF4
+Path = /584C480F
+Reference = REF70;
+ValeurCmp = L;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462DFF
+Path = /584C4815
+Reference = REF71;
+ValeurCmp = ;;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E0A
+Path = /584C481B
+Reference = REF72;
+ValeurCmp = ';
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E24
+Path = /584C482D
+Reference = REF74;
+ValeurCmp = PGUP;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E2A
+Path = /584C4968
+Reference = REF75;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E30
+Path = /584C4962
+Reference = REF76;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E36
+Path = /584C495C
+Reference = REF77;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E3C
+Path = /584C4956
+Reference = REF78;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E42
+Path = /584C4950
+Reference = REF79;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E48
+Path = /584C494A
+Reference = REF80;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E4E
+Path = /584C4944
+Reference = REF81;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E54
+Path = /584C493E
+Reference = REF82;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E5A
+Path = /584C4938
+Reference = REF83;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E60
+Path = /584C4932
+Reference = REF84;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E66
+Path = /584C492C
+Reference = REF85;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E6C
+Path = /584C4926
+Reference = REF86;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E72
+Path = /584C4920
+Reference = REF87;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E78
+Path = /584C4914
+Reference = REF88;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E92
+Path = /584CD854
+Reference = REF90;
+ValeurCmp = Z;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E9D
+Path = /584CD85A
+Reference = REF91;
+ValeurCmp = X;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462EA8
+Path = /584CD860
+Reference = REF92;
+ValeurCmp = C;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462EB3
+Path = /584CD866
+Reference = REF93;
+ValeurCmp = V;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462EBE
+Path = /584CD86C
+Reference = REF94;
+ValeurCmp = B;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462EC9
+Path = /584CD872
+Reference = REF95;
+ValeurCmp = N;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462ED4
+Path = /584CD878
+Reference = REF96;
+ValeurCmp = M;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462EDF
+Path = /584CD87E
+Reference = REF97;
+ValeurCmp = ,;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462EEA
+Path = /584CD884
+Reference = REF98;
+ValeurCmp = .;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462EF5
+Path = /584CD88A
+Reference = REF99;
+ValeurCmp = /;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F00
+Path = /584CD890
+Reference = REF100;
+ValeurCmp = RSHIFT;
+IdModule  = newfootprints:175U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F0B
+Path = /584CD89C
+Reference = REF101;
+ValeurCmp = UP;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F16
+Path = /584CD8A2
+Reference = REF102;
+ValeurCmp = PGDN;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F1C
+Path = /584F8E17
+Reference = REF103;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F22
+Path = /584CD9DD
+Reference = REF104;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F28
+Path = /584CD9D7
+Reference = REF105;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F2E
+Path = /584CD9D1
+Reference = REF106;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F34
+Path = /584CD9CB
+Reference = REF107;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F3A
+Path = /584CD9C5
+Reference = REF108;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F40
+Path = /584CD9BF
+Reference = REF109;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F46
+Path = /584CD9B9
+Reference = REF110;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F4C
+Path = /584CD9B3
+Reference = REF111;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F52
+Path = /584CD9AD
+Reference = REF112;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F58
+Path = /584CD9A7
+Reference = REF113;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F5E
+Path = /584CD9A1
+Reference = REF114;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F64
+Path = /584CD99B
+Reference = REF115;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F6A
+Path = /584CD98F
+Reference = REF116;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F70
+Path = /584CD989
+Reference = REF117;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F77
+Path = /584F5EC9
+Reference = REF118;
+ValeurCmp = MOSFET_P;
+IdModule  = LIBRARY_PLANCK:SOT23_MOS-P_SI2305;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F82
+Path = /584D9D91
+Reference = REF119;
+ValeurCmp = FN/LCTRL;
+IdModule  = newfootprints:125U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F8D
+Path = /584D9D97
+Reference = REF120;
+ValeurCmp = LWIN;
+IdModule  = newfootprints:125U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462F98
+Path = /584D9D9D
+Reference = REF121;
+ValeurCmp = LALT;
+IdModule  = newfootprints:125U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462FB2
+Path = /584E0AB5
+Reference = REF123;
+ValeurCmp = RALT;
+IdModule  = newfootprints:150U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462FD3
+Path = /58517BE6
+Reference = REF126;
+ValeurCmp = LEFT;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462FDE
+Path = /584DD2AC
+Reference = REF127;
+ValeurCmp = DOWN;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462FEA
+Path = /584D9DF7
+Reference = REF129;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462FF0
+Path = /584D9DF1
+Reference = REF130;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462FF6
+Path = /584D9DEB
+Reference = REF131;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462FFC
+Path = /584D9DE5
+Reference = REF132;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58463002
+Path = /584E0ACA
+Reference = REF133;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58463008
+Path = /584DD306
+Reference = REF134;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 5846300E
+Path = /584DD300
+Reference = REF135;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58463014
+Path = /58517BF8
+Reference = REF136;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 58463015
+Path = /58229E44
+Reference = SW1;
+ValeurCmp = PUSH_BUTTON;
+IdModule  = footprints:SW_SPST_B3U-1000P;
+EndCmp
+
+BeginCmp
+TimeStamp = 584DBDA5
+Path = 
+Reference = M3_DRILL;
+ValeurCmp = ~;
+IdModule  = lib_footprints:M3_DRILL;
+EndCmp
+
+BeginCmp
+TimeStamp = 584DDFD1
+Path = /584E08AA
+Reference = REF141;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 584DDFDF
+Path = /584E089E
+Reference = REF142;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E0888
+Path = /584DD2CD
+Reference = D68;
+ValeurCmp = D;
+IdModule  = Diodes_SMD:SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E0889
+Path = /584DD2A0
+Reference = REF124;
+ValeurCmp = FN;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E08A0
+Path = /584DD2A6
+Reference = REF125;
+ValeurCmp = RCTRL;
+IdModule  = newfootprints:150U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E08B7
+Path = /584DD2B2
+Reference = REF128;
+ValeurCmp = RIGHT;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E08CE
+Path = /584DD2FA
+Reference = REF137;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E08DB
+Path = /584DD2F4
+Reference = REF138;
+ValeurCmp = RESISTOR_SMALL;
+IdModule  = LIBRARY_PLANCK:0805_RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E08E8
+Path = /584E0868
+Reference = REF139;
+ValeurCmp = RALT;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E08FF
+Path = /584E0874
+Reference = REF140;
+ValeurCmp = RCTRL;
+IdModule  = newfootprints:100U_MX&ALPS&IN_SWITCH_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E1725
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LIBRARY_PLANCK:LOGO_CUBIC_PENDULUM_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = 584E1B11
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LIBRARY_PLANCK:LOGO_CUBIC_PENDULUM_LARGE;
+EndCmp
+
+BeginCmp
+TimeStamp = 582E5DB4
+Path = /582687F3
+Reference = P1;
+ValeurCmp = USB_B;
+IdModule  = LIBRARY_PLANCK:72f6-usb_mini_b_hiroseux60sc-mb-5s8;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462FA7
+Path = /584D9DA3
+Reference = REF122;
+ValeurCmp = SPACE;
+IdModule  = newfootprints:625U_MX&ALPS&IN_SWITCH_LED_STABS;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E19
+Path = /584C4821
+Reference = REF73;
+ValeurCmp = ENTER;
+IdModule  = newfootprints:225U_MX&ALPS&IN_SWITCH_LED_STABS;
+EndCmp
+
+BeginCmp
+TimeStamp = 58462E87
+Path = /584CD84E
+Reference = REF89;
+ValeurCmp = LSHIFT;
+IdModule  = newfootprints:225U_MX&ALPS&IN_SWITCH_LED_STABS;
+EndCmp
+
+EndListe

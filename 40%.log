@@ -1,0 +1,76 @@
+Parsing error at line: 1929 
+  bestsave on
+ bus diagonal
+ proute
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ fanout 5
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ proute
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ route 5
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ clean 2
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ route 5 11
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ clean 2
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ route 5 16
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ bestsave on
+ bus diagonal
+ proute
+ERR: Execution Aborted...
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ERR: Error parsing this string: invoked "break" outside of a loop
+
+ bestsave on
+ bus diagonal
+ proute
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ fanout 5
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ proute
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ route 5
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ clean 2
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ route 5 11
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ clean 2
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ route 5 16
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ clean 3
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+The number of pins ( 645 ) exceeds your configuration ( 250 )
+ERR: Execution Aborted...
+The number of pins ( 645 ) exceeds your configuration ( 250 )
