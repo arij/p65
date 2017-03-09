@@ -1,0 +1,4 @@
+																NPTHs named as "HOLE"		LED polarity marked
+100U_MX&ALPS&IN_SWITCH_LED		[x]											[x]
+125U_MX&ALPS&IN_SWITCH_LED		[x]											[x]
+200U_MX&ALPS&IN_SWITCH_LED		[x]											[x]

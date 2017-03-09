@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LIBRARY_PLANCK)(type KiCad)(uri "$(KIPRJMOD)\\LIBRARY_PLANCK")(options "")(descr ""))
+  (lib (name newfootprints)(type KiCad)(uri "$(KIPRJMOD)\\newfootprints")(options "")(descr ""))
+)
